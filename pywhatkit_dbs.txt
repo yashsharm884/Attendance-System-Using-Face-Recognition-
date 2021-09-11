@@ -1,0 +1,11 @@
+--------------------
+Date: 16:6:2021
+Time: 6:0
+Phone number: +91 8432682858
+Message: <_io.BufferedReader name='attendance.csv'>
+--------------------
+Date: 16:6:2021
+Time: 5:5
+Phone number: +91 8432682858
+Message: Hello
+--------------------
